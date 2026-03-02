@@ -1,4 +1,11 @@
+# Guilherme Meireles
 ## Hi there 👋
+### Me chamo Guilherme Gonçalves Meireles, tenho 18 anos e sou um recente amante da programação e das diversas áreas digitais por trás de um computador!
++ 📚Estudante de Engenharia de Software na PUC Minas.
++ 🎮🍿Adoro assistir filmes e acompanhar ou praticar esportes tanto físicos quanto digitais.
++ ✍️Sempre disposto a aprender cada dia mais e entregar sempre o melhor possível!
++ 
+  Pode falar comigo aqui pelo github ou pelo meu [instagram](https://www.instagram.com/guimeirelesk?igsh=MWdpcng4NXJsOWpidg==)
 
 <!--
 **GuiMeirelesK/GuiMeirelesK** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
