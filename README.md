@@ -1,5 +1,5 @@
 # Guilherme Meireles
-## Hi there 👋
+## Hi Guys 👋
 ### Me chamo Guilherme Gonçalves Meireles, tenho 18 anos e sou um recente amante da programação e das diversas áreas digitais por trás de um computador!
 + 📚Estudante de Engenharia de Software na PUC Minas.
 + 🎮🍿Adoro assistir filmes e acompanhar ou praticar esportes tanto físicos quanto digitais.
